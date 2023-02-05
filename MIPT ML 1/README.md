@@ -1,4 +1,4 @@
-Tasks from the first semester of ML course in MIPT. 
+### Tasks from the first semester of ML course in MIPT. 
 
 KNN, SVM, Linear regeression and Lab 1 -- Brief review of classic ML algorithms.
 
